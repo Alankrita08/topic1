@@ -1,0 +1,29 @@
+body {
+    background-image: url("background.jpg");
+    font-family: "Times New Roman", serif;
+}
+    
+    h1 {
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline overline solid red;
+    text-shadow: 2px 2px 5px yellow;
+    }
+
+    h2{
+    color: black;
+    text-align: left; 
+    font-size: 15px;   
+    font-weight: bold;
+    text-decoration: underline solid black;
+    text-shadow: 1px 1px red;
+    }
+    
+    p{
+    color: black; 
+    text-align: justify;   
+    font-size: 15px;
+    
+    }
