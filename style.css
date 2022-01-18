@@ -4,12 +4,12 @@ body {
 }
     
     h1 {
-    color: white;
+    color: neon navy;
     text-align: center;
     font-size: 25px;
     font-weight: bold;
-    text-decoration: underline overline solid white;
-    text-shadow: 2px 2px 5px black;
+    text-decoration: underline overline solid navy;
+    text-shadow: 2px 2px 5px orange;
     }
 
     h2{
